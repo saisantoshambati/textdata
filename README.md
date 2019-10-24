@@ -1,2 +1,2 @@
 # textdata
-this contains the sentiment data 
+This contain The sentiment Data. So for sentiment analysis this data can be used
